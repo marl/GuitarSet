@@ -1,6 +1,8 @@
 # GuitarSet
 GuitarSet: a dataset for guitar transcription
 
-Audio data and anntations are temporarly hosted [here](https://drive.google.com/drive/folders/1O9pU0jl92VWmkWzIwjL5xV-n1onzB09O?usp=sharing).
+GuitarSet can be downloaded [here](http://bit.ly/2yY6CJW).
 
-Will transfer to zotero in the near future.
+It is currently hosted on Google Drive, and may be additionally hosted on Zenodo in the near future.
+
+Website for GuitarSet coming soon.
