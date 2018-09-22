@@ -1,6 +1,6 @@
 # GuitarSet
 GuitarSet: a dataset for guitar transcription
 
-GuitarSet can be downloaded [here](http://bit.ly/2LSXZ5G).
+GuitarSet can be downloaded [here](https://zenodo.org/record/1422265#.W6ZsWhMzZQI).
 
-Website for GuitarSet coming soon.
+Accompanying website [here](https://guitarset.weebly.com/).
